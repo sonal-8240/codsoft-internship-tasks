@@ -1,0 +1,1 @@
+This code walks through a complete machine learning workflow, from data exploration and preprocessing to model training, evaluation, and tuning. It leverages a Random Forest classifier to predict whether a passenger on the Titanic survived, using features like age, gender, passenger class, and family size. Hyperparameter tuning is applied to optimize the model's performance.
